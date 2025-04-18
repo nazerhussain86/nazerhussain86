@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazer Hussain</h1>
-<h3 align="center">🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps</h3>
+<h3 align="center">🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps</h3> 
 
 ---
 
