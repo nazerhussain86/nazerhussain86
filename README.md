@@ -4,7 +4,7 @@
 ---
 ### 🌐 Portfolio  
 🔗 [nazerhussain86.github.io/NazerHussain_Portfolio](https://nazerhussain86.github.io/NazerHussain_Portfolio/)
-       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+     
 ---
 ## 📚 Weekly Learning Journey
 
