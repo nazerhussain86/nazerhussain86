@@ -69,6 +69,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazerhussain86&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="left">
+[<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=default" alt="GitHub Streak" />
-</p>
+</p>](url)
