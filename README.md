@@ -1,43 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nazer Hussain</h1>
 <h3 align="center">🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps</h3> 
-█ ▒ ░
+
 ---
+
 ### 🌐 Portfolio  
 🔗 [nazerhussain86.github.io/NazerHussain_Portfolio](https://nazerhussain86.github.io/NazerHussain_Portfolio/)
-     
----
-## 📚 Weekly Learning Journey
-
-I’m committed to continuous growth as a full-stack developer, with a strong focus on both frontend and backend technologies. Below is my **weekly learning breakdown**, crafted to maintain a balanced, professional tech stack.
 
 ---
-
-### 🧠 Learning Breakdown (10–15% Time Split Each)
-
-| 🔧 Technology       | 💡 Focus Areas                                                                 |
-|---------------------|-------------------------------------------------------------------------------|
-| **TypeScript**      | Advanced typing, generics, integration with React                            |
-| **React**           | Hooks, context API, reusable components, performance optimization            |
-| **Python**          | Automation, data processing, machine learning, AI toolkits (LangChain, Ollama) |
-| **JSON**            | APIs, schema design, dynamic config parsing                                  |
-| **AI/ML**           | Prompt engineering, LLMs, OpenAI, fine-tuning models, embedding techniques   |
-| **C# & MVC**        | Server-side architecture, Razor views, RESTful APIs, secure coding practices |
-| **jQuery**          | DOM manipulation, AJAX, legacy system integration                            |
-| **SQL Server 2022** | Advanced queries, stored procedures, CTEs, performance tuning                |
-
----
-
-### ⏳ Weekly Time Commitment (Example: 12 Hours/Week)
-
-```text
-- TypeScript: 1.5 hrs
-- React: 1.5 hrs
-- Python: 2 hrs
-- JSON & APIs: 1 hr
-- AI/ML: 1.5 hrs
-- C# & MVC: 2 hrs
-- jQuery: 1 hr
-- SQL Server 2022: 1.5 hrs
 
 ### 🧠 About Me
 
@@ -100,6 +69,6 @@ I’m committed to continuous growth as a full-stack developer, with a strong fo
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazerhussain86&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=default" alt="GitHub Streak" />
+</p>
