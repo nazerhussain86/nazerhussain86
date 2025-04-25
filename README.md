@@ -16,7 +16,7 @@
   👨‍💻 All my projects live on my portfolio<br>
   💬 Ask me about: <b>React.js, C#, Python</b><br>
   📫 Reach me at: <b>nazerhussain1999@gmail.com</b><br>
-  📄 Know more about my experience: <a href="https://drive.google.com/file/d/1fD2TSomg9RsSiZC_qAtx7TE506sVeoSv/view" target="_blank">View Resume</a><br>
+  📄 Know more about my experience: <a href="" target="_blank">View Resume</a><br>
   ⚡ <i>Fun Fact:</i> Python is dynamically typed — just like my weekend plans. Unpredictable but usually works out!
 </p>
 
