@@ -29,7 +29,15 @@
 - 📫 Reach me at: **nazerhussain1999@gmail.com**.
 - 📄 Know more about my experience: [View Resume](#) <!-- Update your resume link here -->
 - ⚡ Fun Fact: *Python is dynamically typed — just like my weekend plans: unpredictable but usually work out!*
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=C%23&message=30%25&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=30%25&color=yellow&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=SQL%20Server&message=30%25&color=orange&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=React&message=10%25&color=cyan&style=for-the-badge"/>
+</p>
 
+<p align="center"><i>Experience working with Agile methodology 🚀</i></p>
 <hr>
 
 ## 🤝 Connect with Me
@@ -74,14 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=C%23&message=30%25&color=blue&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=30%25&color=yellow&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=SQL%20Server&message=30%25&color=orange&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=React&message=10%25&color=cyan&style=for-the-badge"/>
-</p>
 
-<p align="center"><i>Experience working with Agile methodology 🚀</i></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=tokyonight" alt="GitHub Streak" />
