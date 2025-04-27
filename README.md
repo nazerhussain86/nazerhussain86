@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
-<hr>
+
 <br/>
 
 <p align="center">
