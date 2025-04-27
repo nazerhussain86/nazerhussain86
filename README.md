@@ -1,86 +1,81 @@
+<h1 align="center">
+  Hi 👋, I'm <span style="color: #00bfff;">Nazer Hussain</span>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Nazer Hussain</h1>
-<h3 align="center">🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps</h3>
+<h3 align="center">
+  🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps
+</h3>
 
-<hr>
+<br/>
 
-<h3 align="center">🌐 Portfolio</h3>
 <p align="center">
-  🔗 <a href="https://nazerhussain86.github.io/NazerHussain_Portfolio/" target="_blank">nazerhussain86.github.io/NazerHussain_Portfolio</a>
+  <a href="https://nazerhussain86.github.io/NazerHussain_Portfolio/" target="_blank">
+    🧠 <b>Portfolio</b>
+  </a> • 
+  <a href="mailto:nazerhussain1999@gmail.com" target="_blank">
+    📬 <b>Mail</b>
+  </a> • 
+  <a href="https://www.linkedin.com/in/nazerhussainabdulraheem/" target="_blank">
+    💼 <b>LinkedIn</b>
+  </a>
 </p>
 
 <hr>
 
-<h3 align="center">🧠 About Me</h3>
-<p align="center">
-  👨‍💻 All my projects live on my portfolio<br>
-  💬 Ask me about: <b>React.js, C#, Python</b><br>
-  📫 Reach me at: <b>nazerhussain1999@gmail.com</b><br>
-  📄 Know more about my experience: <a href="" target="_blank">View Resume</a><br>
-  ⚡ <i>Fun Fact:</i> Python is dynamically typed — just like my weekend plans. Unpredictable but usually works out!
-</p>
+## 🧠 About Me
+
+- 👨‍💻 I turn ideas into **responsive, scalable web apps**.
+- 💬 Ask me about: **React.js, C#, Python**.
+- 📫 Reach me at: **nazerhussain1999@gmail.com**.
+- 📄 Know more about my experience: [View Resume](#) <!-- Update your resume link here -->
+- ⚡ Fun Fact: *Python is dynamically typed — just like my weekend plans: unpredictable but usually work out!*
 
 <hr>
 
-<h3 align="center">🤝 Connect with Me</h3>
+## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/nazer hussain abdul raheem" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/nazerhussainabdulraheem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/@nazerhussain1999" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/nazerhussain1999" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.leetcode.com/nazerhussain1999" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/nazerhussain1999" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/nazerhussain1999" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
 <hr>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## 🛠️ Tech Stack
 
-<h4 align="center">Frontend</h4>
+### Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,figma" alt="Frontend skills"/>
 </p>
 
-<h4 align="center">Backend</h4>
+### Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=csharp,java,python,nodejs,express,mysql,sqlite,firebase" alt="Backend skills"/>
 </p>
 
-<h4 align="center">Common</h4>
+### Tools & Others
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,postman,photoshop,pandas" alt="Tools"/>
 </p>
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazerhussain86&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
