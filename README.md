@@ -83,7 +83,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,java,python,nodejs,express,mysql,sqlite,firebase" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=Asp.Net,csharp,java,python,nodejs,express,mysql,sqlite,firebase" alt="Backend skills"/>
 </p>
 
 ### Tools & Others
