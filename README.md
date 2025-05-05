@@ -141,15 +141,6 @@
   <img src="https://skillicons.dev/icons?i=git,gitlab,postman,photoshop" alt="Tools"/>
 </p>
 
----
-
-### 👨‍🎓 Academic Background
-> 🎓 **Bachelor's in Computer Science** – Strong foundation in algorithms, data structures, software engineering principles, and system design.
-
----
-
-
-
 <hr>
 
 ## 📊 GitHub Stats
