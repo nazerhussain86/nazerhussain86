@@ -76,20 +76,79 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🖥️ Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,figma" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" alt="Operating Systems"/>
 </p>
 
-### Backend
+> 💡 I'm primarily a **Linux (Ubuntu)** user, and all projects are developed and tested in a Linux environment.
+
+---
+
+### 🎨 Frontend – Design & Styling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,java,python,nodejs,express,mysql,sqlite,firebase" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Frontend Design Skills"/>
 </p>
 
-### Tools & Others
+---
+
+### 💻 Frontend – Scripting & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postman,photoshop,pandas" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,react" alt="Frontend Scripting Skills"/>
 </p>
+
+---
+
+### 🧠 Backend – Programming Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,express" alt="Backend Languages and Frameworks"/>
+</p>
+
+---
+
+### 🔌 API Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="API Tools"/>
+</p>
+
+---
+
+### 🧪 Database & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases"/>
+</p>
+
+---
+
+### 🤖 Python for AI/ML & OCR
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow" alt="Python AI/ML Tools"/>
+</p>
+
+> 🧠 Leveraging Python for AI/ML tasks such as OCR, document processing, computer vision, and data prediction.
+
+---
+
+### 📊 Data Analysis & Scientific Computing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas" alt="Data Tools"/>
+</p>
+
+---
+
+### 🧰 Tools & Utilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,postman,photoshop" alt="Tools"/>
+</p>
+
+---
+
+### 👨‍🎓 Academic Background
+> 🎓 **Bachelor's in Computer Science** – Strong foundation in algorithms, data structures, software engineering principles, and system design.
+
+---
+
+
 
 <hr>
 
