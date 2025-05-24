@@ -1,10 +1,11 @@
 <h1 align="center">
   Hi 👋, I'm <span style="color: #00bfff;">Nazer Hussain</span>
 </h1>
-## LeetCode Progress
-
-- 🧠 **Programming Problems Solved**: ![Programming Problems](https://img.shields.io/badge/Programming-{count}-blue)
-- 🗃️ **SQL Problems Solved**: ![SQL Problems](https://img.shields.io/badge/SQL-{count}-green)
+<h3 align="center">LeetCode Progress</h3>
+<p align="center">
+- 🧠 **Programming Problems Solved : ![Programming Problems](https://img.shields.io/badge/Programming-{count}-blue)
+- 🗃️ **SQL Problems Solved : ![SQL Problems](https://img.shields.io/badge/SQL-{count}-green)
+</p>
 <h3 align="center">
   🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps
 </h3>
