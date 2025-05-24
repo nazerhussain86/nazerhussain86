@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm <span style="color: #00bfff;">Nazer Hussain</span>
 </h1>
-![LeetCode Stats](https://leetcard.jacoblin.cool/nazerhussain1999?theme=nord&font=Jua&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nazerhussain1999?theme=nord&font=Jua&ext=heatmap" alt="Top Languages" />
+</p>
 <h3 align="center">
   🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps
 </h3>
