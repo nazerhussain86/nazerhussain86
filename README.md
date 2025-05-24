@@ -1,159 +1,67 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color: #00bfff;">Nazer Hussain</span>
-</h1>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nazerhussain1999?theme=nord&font=Jua&ext=heatmap" alt="Top Languages" />
-</p>
-<h3 align="center">
-  🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps
-</h3>
-<hr>
-<h3 align="center">📚 Currently Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nazer+Hussain;Full-Stack+Developer;Cloud+Architect;Problem+Solver" alt="Animated Typing Header" />
+</div>
 
-<h3 align="center">🎓 Previously Learned</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-</p>
+<div align="center">
+  
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-My_Portfolio-654FF0?style=for-the-badge&logo=globe&logoColor=white)](https://nazerhussain86.github.io/NazerHussain_Portfolio/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazerhussainabdulraheem/)
+[![Email](https://custom-icon-badges.demolab.com/badge/-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazerhussain1999@gmail.com)
 
-
-<br/>
-
-<p align="center">
-  <a href="https://nazerhussain86.github.io/NazerHussain_Portfolio/" target="_blank">
-    🧠 <b>Portfolio</b>
-  </a> • 
-  <a href="mailto:nazerhussain1999@gmail.com" target="_blank">
-    📬 <b>Mail</b>
-  </a> • 
-  <a href="https://www.linkedin.com/in/nazerhussainabdulraheem/" target="_blank">
-    💼 <b>LinkedIn</b>
-  </a>
-</p>
-
-<hr>
-
-## 🧠 About Me
-
-- 👨‍💻 I turn ideas into **responsive, scalable web apps**.
-- 💬 Ask me about: **React.js, C#, Python**.
-- 📫 Reach me at: **nazerhussain1999@gmail.com**.
-- 📄 Know more about my experience: [View Resume](#) <!-- Update your resume link here -->
-- ⚡ Fun Fact: *Python is dynamically typed — just like my weekend plans: unpredictable but usually work out!*
-<hr>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=C%23&message=30%25&color=blue&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=30%25&color=yellow&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=SQL%20Server&message=30%25&color=orange&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=React&message=10%25&color=cyan&style=for-the-badge"/>
-</p>
-
-<p align="center"><i>Experience working with Agile methodology 🚀</i></p>
-<hr>
-
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/nazerhussainabdulraheem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/nazerhussain1999" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/nazerhussain1999" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/nazerhussain1999" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
-## 🛠️ Tech Stack
-
-### 🖥️ Operating Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" alt="Operating Systems"/>
-</p>
-
-> 💡 I'm primarily a **Linux (Ubuntu)** user, and all projects are developed and tested in a Linux environment.
+</div>
 
 ---
 
-### 🎨 Frontend – Design & Styling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Frontend Design Skills"/>
-</p>
+## 🛠️ **Tech Stack Radar**
+
+<div align="center">
+
+| **Databases**             | **AI/ML**                 | **Tools**               |
+|---------------------------|---------------------------|-------------------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  |
+
+| **Frontend**              | **Backend**               | **Cloud/DevOps**        |
+|---------------------------|---------------------------|-------------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+
+
+
+</div>
 
 ---
 
-### 💻 Frontend – Scripting & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,react" alt="Frontend Scripting Skills"/>
-</p>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+| ![Nazer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazerhussain86&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=radical&hide_border=true) |
+|-------------|-------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=nazerhussain86&theme=radical&hide_border=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/nazerhussain1999?theme=dark&font=Karla) |
+
+</div>
 
 ---
 
-### 🧠 Backend – Programming Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,express" alt="Backend Languages and Frameworks"/>
-</p>
+## 🏆 Coding Profiles
+
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nazerhussain1999)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nazerhussain1999)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nazerhussain1999)
+
+</div>
+
+
 
 ---
 
-### 🔌 API Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="API Tools"/>
-</p>
+## ✨ Featured Contributions
 
----
+<div align="center">
 
-### 🧪 Database & Storage
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases"/>
-</p>
+[![Nazer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazerhussain86&theme=react-dark&hide_border=true&area=true)](https://github.com/nazerhussain86)
 
----
+</div>
 
-### 🤖 Python for AI/ML & OCR
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow" alt="Python AI/ML Tools"/>
-</p>
-
-> 🧠 Leveraging Python for AI/ML tasks such as OCR, document processing, computer vision, and data prediction.
-
----
-
-### 📊 Data Analysis & Scientific Computing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas" alt="Data Tools"/>
-</p>
-
----
-
-### 🧰 Tools & Utilities
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,postman,photoshop" alt="Tools"/>
-</p>
-
-<hr>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazerhussain86&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
