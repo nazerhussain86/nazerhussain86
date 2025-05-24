@@ -1,11 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm <span style="color: #00bfff;">Nazer Hussain</span>
 </h1>
-<h3 align="left"> 📚 LeetCode Progress</h3>
-
-- 🧠 **Programming Problems Solved : ![Programming Problems](https://img.shields.io/badge/Programming-{count}-blue)
-- 🗃️ **SQL Problems Solved : ![SQL Problems](https://img.shields.io/badge/SQL-{count}-green)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/nazerhussain1999?theme=nord&font=Jua&ext=heatmap)
 <h3 align="center">
   🚀 Full-Stack Wizard from India | Turning Ideas into Scalable Web Apps
 </h3>
