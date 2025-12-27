@@ -12,16 +12,17 @@
 
 
 
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-|  ![LeetCode Stats](https://leetcard.jacoblin.cool/nazerhussain1999?theme=dark&font=Karla)| ![GitHub Streak](https://streak-stats.demolab.com?user=nazerhussain86&theme=radical&hide_border=true)  |
+| <img src="https://leetcard.jacoblin.cool/nazerhussain1999?theme=dark&font=Karla" alt="LeetCode Stats" /> | <img src="https://streak-stats.demolab.com?user=nazerhussain86&theme=radical&hide_border=true" alt="GitHub Streak" /> |
 |-------------|-------------|
-|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=radical&hide_border=true)| ![Nazer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazerhussain86&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazerhussain86&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=nazerhussain86&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> |
 
 </div>
+
+
 
 ---
 
